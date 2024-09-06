@@ -3,6 +3,7 @@
 🚀 **Try the Calculator Live!** 🚀
 
 Experience the Apple-Inspired Calculator in action! Visit the live version of the app and enjoy the sleek design and smooth functionality right in your browser.
+
 🔗 Link: https://henrymilaccalculator.vercel.app/
 
 
@@ -32,7 +33,7 @@ git clone https://github.com/HenryMilac/Calculator.git
 - Navigate to the project directory:
 
 ```bash
-cd apple-inspired-calculator
+cd calculator
 ```
 - Install the dependencies:
 
@@ -42,7 +43,7 @@ npm install
 - Start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 Now, open your browser and navigate to http://localhost:3000 to use the calculator.
 
