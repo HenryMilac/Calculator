@@ -2,25 +2,24 @@
 
 🚀 **Try the Calculator Live!** 🚀
 
-Experience the Apple-Inspired Calculator in action! Visit the live version of the app here and enjoy the sleek design and smooth functionality right in your browser.
-
-
+Experience the Apple-Inspired Calculator in action! Visit the live version of the app and enjoy the sleek design and smooth functionality right in your browser.
+🔗 Link: https://henrymilaccalculator.vercel.app/
 
 
 ## Features
-**Basic Arithmetic Operations:** Supports core operations such as addition, subtraction, multiplication, and division.
+- **Basic Arithmetic Operations:** Supports core operations such as addition, subtraction, multiplication, and division.
 
-**Responsive Design:** Mobile-first approach ensures the calculator looks great on devices of all sizes, from phones to desktops.
+- **Responsive Design:** Mobile-first approach ensures the calculator looks great on devices of all sizes, from phones to desktops.
 
-**Smooth Animations:** Includes subtle transitions and button animations for a polished user experience.
+- **Smooth Animations:** Includes subtle transitions and button animations for a polished user experience.
 
 ## Technologies Used
 
-**React:** The calculator is built using React, ensuring efficient state management and component-based architecture.
+- **React:** The calculator is built using React, ensuring efficient state management and component-based architecture.
 
-**TypeScript:** Implemented with TypeScript to enhance code reliability, enabling strong typing and reducing runtime errors.
+- **TypeScript:** Implemented with TypeScript to enhance code reliability, enabling strong typing and reducing runtime errors.
 
-**TailwindCSS:** Styled with TailwindCSS for rapid and responsive UI development, focusing on utility-first design.
+- **TailwindCSS:** Styled with TailwindCSS for rapid and responsive UI development, focusing on utility-first design.
 
 ## Getting Started
 Follow these steps to set up and run the project locally:
